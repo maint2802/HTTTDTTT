@@ -1,0 +1,822 @@
+{
+  "cases": [
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "dưới 40",
+      "stage": "tập luyện",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2480 calo/ngày. Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 2980, bạn nên ăn tăng bổ sung thực phẩm giàu, protein và calo, chất béo tốt. Ví dụ bữa 1: 2 quả trứng, 1 bát yến mạch;bữa 2: 200g ức gà, 1 bát gạo lứt, rau luộc;bữa 3: 300g thăn bò, khoai tây;bữa 4: 1,2 quả chuối, sữa tăng cơ, bữa 5: 200 ức gà, 1 salad rau, 1 bát gạo lứt;bữa 6,7: 500g cá rô phi hoặc cá bơn, 1 đĩa bông cải luộc. Với cân nặng của bạn, bạn cần ăn 80g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Ngoài ra trong giai đoạn luyện tập căng thẳng cần tập trung vào các thực phẩm giàu protein, cung cấp đủ lượng tinh bột dễ tiêu như: ngũ cốc, sữa, bánh ngọt, chocolate, nước trái cây,... Trong 1 ngày luyện tập ăn 6, 7 bữa cách nhau 2h 1 lần, sau khi tập ăn bổ sung năng lượng đã mất trong khoảng 30p-1h bằng các bữa ăn nhanh. Cần uống nhiều nước trước và sau khi tập luyện (3-4l/1 ngày), bổ sung nước và điện giải sau khi tập luyện sẽ giúp cơ thể phục hồi và đạt hiệu suất cao nhất"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "40-50",
+      "stage": "tập luyện",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2610 calo/ngày.Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2410, bạn cần bổ sung đầy đủ chất đạm, đồng thời hạn chế chất béo, tăng cường rau xanh;nên chia khẩu phần ăn hàng ngày gồm 40% protein, 50% calo từ tinh bột, 10% calo từ chất béo, các thực phẩm phổ biến bao gồm: thịt bò, thịt lợn thăn, cá hồi, sữa ít béo, gạo, bột yến mạch, ra cải xanh, xà lách, sắn, đậu xanh, dầu oliu.",
+      "conclude2": "Kết hợp với giai đoạn luyện tập hàng ngày ăn 6,7 bữa cách nhau 2 đến 3h 1 lần. Bữa 1: 1 cơm sườn,1 trứng ốp la, 1 trái chuối;bữa 2: bữa 2: 4,5 lòng trắng trứng, 1 cốc sữa ít béo, không đường, bữa 3: 200 g thịt bò nạc, 1 đĩa bông cải xanh;bữa 4: 200g ức gà, 1 muỗng whey protein;bữa 5: 1 bát gạo lứt, 200 g thăn bò, 1 quả táo, cam;bữa 6,7: 1 quả trứng luộc, 1 quả chuối. Cung cấp đủ lượng nước cần thiết trước và sau khi tập luyện (3,4 l/ngày). Sau khi tập thì nên ăn bổ sung năng lượng đã mất trong khoảng 1-2h bằng bữa ăn nhanh và dễ ăn như: trứng, chuối, bột yến mạch, ngũ cốc, phô mai và trái cây"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "40-50",
+      "stage": "tập luyện",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2610 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 2610, bạn nên thực hiện khẩu phần ăn theo quy tắc 40:20:40, 40% carbohydrates, 20% chất béo, 40% protein. Với cân nặng của bạn, bạn cần ăn 90g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn luyện tập hàng ngày ăn 6,7 bữa cách nhau 2 đến 3h 1 lần. Bữa 1: 1 cơm sườn,1 trứng ốp la, 1 trái chuối;bữa 2: bữa 2: 4,5 lòng trắng trứng, 1 cốc sữa ít béo, không đường, bữa 3: 200 g thịt bò nạc, 1 đĩa bông cải xanh;bữa 4: 200g ức gà, 1 muỗng whey protein;bữa 5: 1 bát gạo lứt, 200 g thăn bò, 1 quả táo, cam;bữa 6,7: 1 quả trứng luộc, 1 quả chuối. Cung cấp đủ lượng nước cần thiết trước và sau khi tập luyện (3,4 l/ngày)"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "50-60",
+      "stage": "tập luyện",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2870 calo/ngày. Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 3070, bạn nên thực hiện khẩu phần ăn bao gồm: 45% calo từ protein, 40% từ tinh bột, 15% từ chất béo tốt, hạn chế sử dụng rượu, thực phẩm chứa nhiều đường, đồ chiên rán. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn tập luyện 1 ngày bạn nên ăn 6,7 bữa, mỗi bữa cách 2-3h. Bữa 1: 2 quả trứng, 1 bát yến mạch;bữa 2: 200 ức gà, 1 bát gạo lứt, 1 đĩa cải xanh luộc;bữa 3: 200 g thăn bò, 1 củ khoai tây;bữa 4: 200 g thăn bò, 1 củ khoai tây;bữa 5: 200 g ức gà, 1 bát gạo lứt;bữa 6: 200 g cá rô phi, bông cải luộc. Sau khi tập xong nên ăn bổ sung năng lượng đã mất trong khoảng 1h bằng các bữa ăn nhanh như phô mai, trái cây, bổ sung nước và điện giải để giúp cơ thể hồi phục và đạt hiệu suất cao nhất"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "50-60",
+      "stage": "tập luyện",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2870 calo/ngày.Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2370, bạn cần hạn chế lượng calo từ chất béo xấu, khẩu phần ăn phù hợp gồm 35% lượng calo từ protein, 55% từ tinh bột, 10% từ chất béo tốt. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn tập luyện trong 1 ngày bạn nên ăn bữa sáng: 1 bánh sandwich, 1 cốc sữa không đường;bữa phụ, 1 quả chuối, 1 quả trứng;bữa trưa: 200g ức gà, 1 đĩa rau luộc;bữa phụ: 1 quả trứng, 1 quả cam;bữa tối: 1 bát yến, 1 đũa xà lách lá xanh. 1 bữa ăn nhẹ trước khi tập luyện sẽ giúp đốt nhiều calo hơn. Ngoài ra cũng cần cung cấp đủ lượng nước trong 1 ngày(3-4l)"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "50-60",
+      "stage": "sắp thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "​​Với thể trạng của bạn, cần tiêu thụ 2870 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 2870, bạn nên thực hiện khẩu phần ăn phù hợp 40% lượng calo từ protein, 20% từ chất béo, 40% từ tinh bột. Bữa sáng: 2 quả trứng gà, 1 cốc sữa đậu nành, 100 g thịt bò;bữa trưa: 2 bát cơm gạo lứt, 200 g ức gà, 1 đĩa rau luộc;bữa ăn phụ: 1 hộp sữa chưa, 1 cái bánh ngọt;bữa tối: 1 bát cơm, 2 lát đậu, 50g thịt nạc;bữa ăn phu: 1 cốc sữa ít béo, 1 quả cam. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như khoai tây chiên, pizza... Cung cấp đủ lượng đạm cho trọng lượng cơ thể 2g/1kg. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi thoải mái."
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "50-60",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2870 calo/ngày.Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3370, bạn cần tăng bổ sung thực phẩm giàu chất béo tốt, giàu calo vào các thời điểm thích hợp. Bữa sáng(6-8h): 1 tô hủ tiếu có thịt gà hoặc thịt bò, 1 hộp sữa, 1 quả táo, bữa phụ(9-10h): 1 quả trứng luộc, 1 quả chuối tiêu;bữa trưa(11-12h): 2 bát cơm, 200 g thăn bò, 1 bát canh bí nấu tôm;bữa phụ(14-15h):1 quả trứng vịt lộn, 1 xúc xích, 1 quả chuối;bữa ăn tối(18-19h): 150g cá hồi, cà chua, salad rau, sữa chua;bữa phụ: 1 cốc sữa ít béo, 1 quả táo. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như pho mai que, bánh rán... Cung cấp đủ lượng đạm cho trọng lượng cơ thể 2g/1kg. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi để tinh thần thư giãn thoải mái."
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "60-70",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3130 calo/ngày.Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2930, bạn nên thực hiện khẩu phần ăn 40% lượng calo từ protein, 50% từ tinh bột, 10% từ chất béo. Bữa sáng: 2 quả trứng, 2 lát bánh mì;bữa phụ: 1 hộp sữa chua, 1 đĩa hoa quả;bữa trưa: 200 ức gà, canh bí đỏ, 1 đĩa rau salad;bữa phụ: 1 quả trứng, 1 quả táo, bữa tối: salad cá ngừ, bắp cải cuốn thịt;bữa phụ trước khi ngủ: 1 cốc sữa ít béo. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như khoai tây chiên, pizza... Cung cấp 2g đạm trên 1kg trọng lượng cơ thể. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi thoải mái."
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "60-70",
+      "stage": "sắp thi đấu",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3130 calo/ngày.Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2630, bạn cần hạn chế lượng calo từ chất béo xấu, khẩu phần ăn gồm 35% calo từ protein, 55% calo từ tinh bột, 10% calo từ chất béo. Ăn sáng: 45g yến mạch với 300ml sữa không đường, 200ml nước ép táo, bữa phụ: 120g sữa chua ít béo với việt quất và mật ong;ăn trưa: bánh sandwich(nguyên cám) ức gà salad;bữa phụ: Smothie với 25g whey protein, 80g quả mâm xôi, việt quất;bữa tối: 210g cá ngừ, 70g gạo lứt, bông cải xanh;ăn nhẹ: 250ml sữa tách kem. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như pho mai que, bánh rán... Cung cấp đủ lượng đạm cho trọng lượng cơ thể 2g/1kg. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi để tinh thần thư giãn thoải mái"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "60-70",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3130 calo/ngày.Và do mục tiêu của bạn là tăng cơ nên lượng calo cần cung cấp phù hợp là 3330, bạn nên thực hiện khẩu phần ăn bao gồm: 45% calo từ protein, 40% từ tinh bột, 15% từ chất béo tốt, hạn chế sử dụng rượu, thực phẩm chứa nhiều đường, đồ chiên rán. Bữa sáng: 4 quả trứng gà, 1 bát ngũ cốc lúa mì, 1 quả chuối;bữa phụ: 100g ức gà, 2 lát bánh mì, 25g whey protein;bữa trưa: 200g thăn bò, 1 bát mì ống, bông cải xanh;bữa phụ: sữa tăng cơ, hoa quả;bữa tối: 200-250g ức gà, 1 bát đậu xanh. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như khoai tây chiên, pizza... Cung cấp 2g đạm trên 1kg trọng lượng cơ thể. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi thoải mái."
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "60-70",
+      "stage": "đang thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3130 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 3130, bạn nên thực hiện khẩu phần ăn theo quy tắc 40:20:40, 40% tinh bột, 20% chất béo, 40% protein. Bữa sáng: 2 lát bánh mì, 2 quả trứng, 1 cốc sữa đậu nành, 1 quả dưa chuột;bữa trưa: 2 bát cơm, 50g thịt nạc, 1 đĩa đậu bắp, 100 g dưa hấu;bữa ăn nhẹ: bánh ngọt, 1 cốc sữa chua;bữa tối: 1 bát cơm, đậu nhồi thịt hấp, 1 quả lê;bữa phụ: 1 cốc sữa. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn đang thi đấu nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,... để đảm bảo sức khoẻ tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine, HMB."
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "70-80",
+      "stage": "đang thi đấu",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3390 calo/ngày. Và do mục tiêu của bạn là tăng cơ giảm mỡ nên lượng calo cần cung cấp phù hợp là 3190. Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,... để đảm bảo sức khoẻ tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine, HMB. Loại nước uống dùng trong khi thi đấu phải nhạt, độ đường khoảng 2,5%, được để mát từ 4-120C, có mùi thơm dễ chịu. Nếu ngọt quá, nước ở lâu trong dạ dày có thể gây rối loạn tiêu hóa. Chỉ nên uống từng ngụm nhỏ, tầm khoảng 400ml trong 30 phút khi thi đấu và 100-200ml sau mỗi 15 phút. Không nên để quá khát mới uống sẽ dẫn đến ảnh hưởng không tốt, nên lưu ý nhu cầu cung cấp nước cho cơ thể của các vận động viên thể hình luôn nhiều hơn"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m6-1m7",
+      "weight": "40-50",
+      "stage": "đang thi đấu",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2657 calo/ngày. Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3157. Với cân nặng của bạn, bạn cần ăn 90g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,... để đảm bảo sức khoẻ tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine, HMB. Loại nước uống dùng trong khi thi đấu phải nhạt, độ đường khoảng 2,5%, được để mát từ 4-120C, có mùi thơm dễ chịu. Nếu ngọt quá, nước ở lâu trong dạ dày có thể gây rối loạn tiêu hóa. Chỉ nên uống từng ngụm nhỏ, tầm khoảng 400ml trong 30 phút khi thi đấu và 100-200ml sau mỗi 15 phút. Không nên để quá khát mới uống sẽ dẫn đến ảnh hưởng không tốt, nên lưu ý nhu cầu cung cấp nước cho cơ thể của các vận động viên thể hình luôn nhiều hơn"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m6-1m7",
+      "weight": "50-60",
+      "stage": "đang thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2917 calo/ngày.Và do mục tiêu của bạn là tăng cơ nên lượng calo cần cung cấp phù hợp là 3117. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,... để đảm bảo sức khoẻ tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine, HMB. Loại nước uống dùng trong khi thi đấu phải nhạt, độ đường khoảng 2,5%, được để mát từ 4-120C, có mùi thơm dễ chịu. Nếu ngọt quá, nước ở lâu trong dạ dày có thể gây rối loạn tiêu hóa. Chỉ nên uống từng ngụm nhỏ, tầm khoảng 400ml trong 30 phút khi thi đấu và 100-200ml sau mỗi 15 phút. Không nên để quá khát mới uống sẽ dẫn đến ảnh hưởng không tốt, nên lưu ý nhu cầu cung cấp nước cho cơ thể của các vận động viên thể hình luôn nhiều hơn"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m6-1m7",
+      "weight": "60-70",
+      "stage": "đang thi đấu",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3178 calo/ngày. Và do mục tiêu của bạn là giảm mỡ nên lượng calo cần cung cấp phù hợp là 2678. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn đang thi đấu bạn nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,... để đảm bảo sức khoẻ tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine, HMB. Loại nước uống dùng trong khi thi đấu phải nhạt, độ đường khoảng 2,5%, được để mát từ 4-120C, có mùi thơm dễ chịu. Nếu ngọt quá, nước ở lâu trong dạ dày có thể gây rối loạn tiêu hóa. Chỉ nên uống từng ngụm nhỏ, tầm khoảng 400ml trong 30 phút khi thi đấu và 100-200ml sau mỗi 15 phút. Không nên để quá khát mới uống sẽ dẫn đến ảnh hưởng không tốt, nên lưu ý nhu cầu cung cấp nước cho cơ thể của các vận động viên thể hình luôn nhiều hơn"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m6-1m7",
+      "weight": "60-70",
+      "stage": "sau thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3178 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 3178, bạn nên thực hiện khẩu phần ăn theo quy tắc 40:20:40, 40% tinh bột, 20% chất béo, 40% protein. Bữa sáng: 1 tô phở gà, cốc sữa đậu nành nguyên chất (120ml); Bữa trưa: 2 lưng bát cơm (80g gạo), 1 phần thịt sốt cà chua, 1 đĩa rau cải luộc (200g), 1 quả cam (100g) ăn sống hoặc ép lấy nước uống; Bữa ăn nhẹ: 1 cốc sữa chua ít béo (200ml), 5g đường hoặc 1 cái bánh ngọt; Bữa chiều: 1 bát cơm (60g gạo), 1 đĩa thịt bò xào giá, 1 bát canh cà chua nấu trứng, 5 quả quýt ngọt (100g); Bữa nhẹ buổi tối: 2 củ khoai sọ luộc (100g). Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m6-1m7",
+      "weight": "60-70",
+      "stage": "sau thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3178 calo/ngày.Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 3378, bạn nên thực hiện khẩu phần ăn bao gồm: 45% calo từ protein, 40% từ tinh bột, 15% từ chất béo tốt, hạn chế sử dụng rượu, thực phẩm chứa nhiều đường, đồ chiên rán. Bữa sáng: 2 quả trứng gà, 1 bát yến mạch;bữa phụ: 1 quả chuối, 2 lát bánh mì, 2 lát phô mai;bữa trưa: 200- 250g thịt bò, 500g khoai tây, 1 đĩa bông cây xanh;bữa phụ: trái cây lê, đào;bữa tối: 200g ức gà, 1 bát gạo lứt. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m6-1m7",
+      "weight": "70-80",
+      "stage": "sau thi đấu",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3438 calo/ngày.Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 3238, bạn nên thực hiện khẩu phần ăn 40% lượng calo từ protein, 50% từ tinh bột, 10% từ chất béo. Bữa sáng: 2 quả trứng, 2 lát bánh mì;bữa phụ: 1 hộp sữa chua, 1 đĩa hoa quả;bữa trưa: 300g thịt lợn thăn, canh bí đỏ, 1 đĩa rau chân vịt;bữa phụ: 1 quả trứng, 1 quả táo, bữa tối: 200g cá hồi, bắp cải cuốn thịt;bữa phụ trước khi ngủ: 1 cốc sữa ít béo.Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà.... ",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m7-1m8",
+      "weight": "70-80",
+      "stage": "sau thi đấu",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3533 calo/ngày.Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 3033, bạn cần hạn chế lượng calo từ chất béo xấu, khẩu phần ăn gồm 35% calo từ protein, 55% calo từ tinh bột, 10% calo từ chất béo. Ăn sáng: 300ml sữa gầy, 100g dâu tây, 1 quả chuối;bữa trưa: bánh sandwich(nguyên cám) cá ngừ, 200ml sữa gầy;bữa phụ: sữa chua ít béo, các loại hạt hỗn hợp, nho khô, việt quất;bữa tối: 100g thịt gà, 100g thịt xông khói, 100g cà chua. Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m7-1m8",
+      "weight": "60-70",
+      "stage": "sau thi đấu",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3273 calo/ngày.Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3773, bạn cần tăng bổ sung thực phẩm giàu chất béo tốt, giàu calo vào các thời điểm thích hợp. Bữa sáng(6-8h): 1 đĩa cơm sườn trứng ốp là, 1 hộp sữa, 1 quả táo; bữa phụ(9-10h): bánh ngọt, 1 quả trứng luộc, 1 quả chuối tiêu;bữa trưa(11-12h): 2 bát cơm, 250g thăn bò, 1 bát canh bí đỏ;bữa phụ(14-15h):1 quả trứng vịt lộn, 1 xúc xích, 1 quả chuối;bữa ăn tối(18-19h): 150g cá hồi, bông cải luộc, sữa chua;bữa phụ: 1 cốc sữa ít béo, 1 quả táo. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m7-1m8",
+      "weight": "70-80",
+      "stage": "sau thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3533 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 3533, bạn nên thực hiện khẩu phần ăn theo quy tắc 40:20:40, 40% tinh bột, 20% chất béo, 40% protein. Bữa sáng: 1 tô phở bò, sữa đậu nành nguyên chất (120ml); Bữa trưa: 1 bát gạo lứt, 1 phần thịt sốt cà chua, 1 đĩa rau cải luộc (200g), 1 quả cam (100g) ăn sống hoặc ép lấy nước uống; Bữa ăn nhẹ: 1 cốc sữa chua ít béo (200ml), 5g đường hoặc 1 cái bánh ngọt; Bữa chiều: 1 bát cơm (60g gạo), 1 đĩa thịt bò xào giá, 1 bát canh cà chua nấu trứng, 5 quả quýt ngọt (100g); Bữa nhẹ buổi tối: 100g đậu xanh. Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "trên 1m8",
+      "weight": "60-70",
+      "stage": "tập luyện",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3320 calo/ngày.Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3820, bạn nên ăn tăng bổ sung thực phẩm giàu, protein và calo, chất béo tốt. Ví dụ bữa 1: 2 quả trứng, 1 bát yến mạch;bữa 2: 200g ức gà, 1 hộp sữa;bữa 3: 300g thăn bò, khoai tây, 1 đĩa bông cải xanh;bữa 4: 1,2 quả chuối, sữa tăng cơ, bữa 5: 200 ức gà, 1 1 bát canh cà chua trứng, 1 bát gạo lứt;bữa 6,7: 500g cá bơn, 1 đĩa bông cải luộc. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Ngoài ra trong giai đoạn luyện tập căng thẳng cần tập trung vào các thực phẩm giàu protein, cung cấp đủ lượng tinh bột dễ tiêu như: ngũ cốc, sữa, bánh ngọt, chocolate, nước trái cây,... Trong 1 ngày luyện tập ăn 6, 7 bữa cách nhau 2h 1 lần, sau khi tập ăn bổ sung năng lượng đã mất trong khoảng 30p-1h bằng các bữa ăn nhanh. Cần uống nhiều nước trước và sau khi tập luyện(3-4l/1 ngày), bổ sung nước và điện giải sau khi tập luyện sẽ giúp cơ thể phục hồi và đạt hiệu suất cao nhất"
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "trên 1m8",
+      "weight": "70-80",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3580 calo/ngày.Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 3780, bạn nên thực hiện khẩu phần ăn bao gồm: 45% calo từ protein, 40% từ tinh bột, 15% từ chất béo tốt, hạn chế sử dụng rượu, thực phẩm chứa nhiều đường, đồ chiên rán. Bữa sáng: 3 lát thịt heo nạc áp chảo kèm với 1 quả trứng ốp la, 1 quả chuối;bữa phụ: 100g ức gà, 2 lát bánh mì, 25g whey protein;bữa trưa: 200g ức gà luộc và ½ bắp ngô luộc, 1 ly sữa đậu nành bông cải xanh;bữa phụ: sữa tăng cơ, hoa quả;bữa tối: 1 ly sữa hạnh nhân nguyên chất, 3 quả dâu tây, thịt bò xào măng tây. Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như khoai tây chiên, pizza... Cung cấp 2g đạm trên 1kg trọng lượng cơ thể. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi thoải mái."
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "trên 1m8",
+      "weight": "trên 80",
+      "stage": "đang thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3711 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 3711, bạn nên thực hiện khẩu phần ăn theo quy tắc 40:20:40, 40% tinh bột, 20% chất béo, 40% protein. Bữa sáng: 2 múi bưởi, 2 miếng bánh mì phết phô mai mỏng ít béo, 1 quả táo; bữa trưa: 2 bát cơm, măng tây xào với dầu olive, 1 miếng cá hồi hấp, 100 g dưa hấu; bữa ăn nhẹ: bánh ngọt, 1 cốc sữa chua, 25g sữa tăng cơ whey;bữa tối: 1 bát cơm, đậu nhồi thịt hấp, 1 quả lê;bữa phụ: 1 cốc sữa. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn đang thi đấu nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,... để đảm bảo sức khoẻ tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine, HMB."
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "dưới 1m6",
+      "weight": "40-50",
+      "stage": "tập luyện",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2493 calo/ngày.Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 2993, bạn nên ăn tăng bổ sung thực phẩm giàu, protein và calo, chất béo tốt. Ví dụ bữa 1: 2 miếng phô mai, 3 quả dâu tây và 1 quả trứng luộc;bữa 2: 200g ức gà, 1 bát gạo lứt, rau luộc;bữa 3: 300g thăn bò, 1 bát yến mạch;bữa 4: 1,2 quả chuối, sữa tăng cơ, bữa 5: 200 ức gà, canh cải thảo nấu tôm khô, 1 bát gạo lứt;bữa 6,7: 300g ngừ, 1 đĩa bắp cải cuốn thịt(300g). Với cân nặng của bạn, bạn cần ăn 90g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Ngoài ra trong giai đoạn luyện tập căng thẳng cần tập trung vào các thực phẩm giàu protein, cung cấp đủ lượng tinh bột dễ tiêu như: ngũ cốc, sữa, bánh ngọt, chocolate, nước trái cây,... Trong 1 ngày luyện tập ăn 6, 7 bữa cách nhau 2h 1 lần, sau khi tập ăn bổ sung năng lượng đã mất trong khoảng 30p-1h bằng các bữa ăn nhanh. Cần uống nhiều nước trước và sau khi tập luyện(3-4l/1 ngày), bổ sung nước và điện giải sau khi tập luyện sẽ giúp cơ thể phục hồi và đạt hiệu suất cao nhất"
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "dưới 1m6",
+      "weight": "trên 80",
+      "stage": "tập luyện",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3404 calo/ngày.Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2904, bạn cần hạn chế lượng calo từ chất béo xấu, khẩu phần ăn phù hợp gồm 35% lượng calo từ protein, 55% từ tinh bột, 10% từ chất béo tốt. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn tập luyện trong 1 ngày bạn nên ăn bữa sáng: salad hoa quả, dâu tây, 1 cốc sữa không đường;bữa phụ, 1 quả chuối, 1 quả trứng;bữa trưa: 300g bò bít tết măng tây, 1 đĩa rau luộc;bữa phụ: 1 quả trứng, 1 quả cam; bữa tối: 300g thịt heo quay và 1 đĩa bông cải xanh luộc, 1 bữa ăn nhẹ trước khi tập luyện sẽ giúp đốt nhiều calo hơn. Ngoài ra cũng cần cung cấp đủ lượng nước trong 1 ngày(3-4l)"
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "dưới 1m6",
+      "weight": "70-80",
+      "stage": "tập luyện",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3274 calo/ngày.Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2774, bạn cần hạn chế lượng calo từ chất béo xấu, khẩu phần ăn phù hợp gồm 35% lượng calo từ protein, 55% từ tinh bột, 10% từ chất béo tốt. Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn tập luyện trong 1 ngày bạn nên ăn bữa sáng: 1 quả trứng ốp la ăn kèm với dưa chuột, 1 cốc sữa không đường;bữa phụ, 1 quả chuối, 25g sữa tăng cơ whey;bữa trưa: mướp xào giá đỗ, thịt gà áp chảo và canh rau cải thịt băm;bữa phụ: 1 quả trứng, 1 quả cam;bữa tối: 1 chén cơm gạo lứt nhỏ và món tôm xào rau bina. 1 bữa ăn nhẹ trước khi tập luyện sẽ giúp đốt nhiều calo hơn. Ngoài ra cũng cần cung cấp đủ lượng nước trong 1 ngày(3-4l)"
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "dưới 1m6",
+      "weight": "60-70",
+      "stage": "tập luyện",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3014 calo/ngày.Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2814,bạn cần bổ sung đầy đủ chất đạm, đồng thời hạn chế chất béo, tăng cường rau xanh;nên chia khẩu phần ăn hàng ngày gồm 40% protein, 50% calo từ tinh bột, 10% calo từ chất béo, các thực phẩm phổ biến bao gồm: thịt bò, thịt lợn thăn, cá hồi, sữa ít béo, gạo, bột yến mạch, ra cải xanh, xà lách, sắn, đậu xanh, dầu oliu. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn luyện tập hàng ngày ăn 6,7 bữa cách nhau 2 đến 3h 1 lần. Bữa 1: 1 cơm sườn,1 trứng ốp la, 1 quả chuối;bữa 2: bữa 2: nước ép trái cây ca, dưa hấu;bữa 3: Ức gà xào phô mai, 12 hạt hạnh nhân, 1 ly sữa hạt óc chó nguyên chất;bữa 4: 1 muỗng 25g whey protein, 1 trái cam;bữa 5: Tép rang, thịt bò xào với măng tây và vài quả mâm xôi;bữa 6,7: 1 quả trứng luộc, 1 cốc sữa 100ml không đường. Cung cấp đủ lượng nước cần thiết trước và sau khi tập luyện (3,4 l/ngày)."
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "1m6-1m7",
+      "weight": "50-60",
+      "stage": "tập luyện",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2801 calo/ngày.Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3301, bạn nên ăn tăng bổ sung thực phẩm giàu, protein và calo, chất béo tốt. Ví dụ bữa 1: 1 tô hủ tiếu xương, 1 ly sữa, 1 quả chuối;bữa 2: 200g ức gà, 1 hộp sữa chua;bữa 3: 3 chén cơm, canh thịt bò nấu khoai tây, cải thìa xào nấm;bữa 4: 1,2 quả chuối, bổ sung sữa tăng cơ, bữa 5: 2 chén cơm, canh súp lơ nấu sườn, thịt vịt kho gừng;bữa 6,7: 1 củ khoai lang, 1 quả trứng, 1 ly sữa. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Ngoài ra trong giai đoạn luyện tập căng thẳng cần tập trung vào các thực phẩm giàu protein, cung cấp đủ lượng tinh bột dễ tiêu như: ngũ cốc, sữa, bánh ngọt, chocolate, nước trái cây,... Trong 1 ngày luyện tập ăn 6, 7 bữa cách nhau 2h 1 lần, sau khi tập ăn bổ sung năng lượng đã mất trong khoảng 30p-1h bằng các bữa ăn nhanh. Cần uống nhiều nước trước và sau khi tập luyện(3-4l/1 ngày), bổ sung nước và điện giải sau khi tập luyện sẽ giúp cơ thể phục hồi và đạt hiệu suất cao nhất"
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "1m6-1m7",
+      "weight": "60-70",
+      "stage": "sau thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3061 calo/ngày.Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 3261, bạn nên thực hiện khẩu phần ăn bao gồm: 45% calo từ protein, 40% từ tinh bột, 15% từ chất béo tốt, hạn chế sử dụng rượu, thực phẩm chứa nhiều đường, đồ chiên rán. Bữa sáng: 2 quả trứng gà, 1 bát súp gà ngô non;bữa phụ: 1 quả chuối, 2 lát bánh mì, 2 lát phô mai;bữa trưa: 1 miếng cá hồi hấp và thịt heo nạc xào hành tây, 1 đĩa bông cây xanh;bữa phụ: trái cây lê, đào;bữa tối: 200g ức gà luộc và nghêu hấp sả. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "1m6-1m7",
+      "weight": "70-80",
+      "stage": "sau thi đấu",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3322 calo/ngày.Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 3122, bạn nên thực hiện khẩu phần ăn 40% lượng calo từ protein, 50% từ tinh bột, 10% từ chất béo. Bữa sáng: 2 múi bưởi, 2 miếng bánh mì phết phô mai mỏng ít béo;bữa phụ: 1 hộp sữa chua, 1 đĩa hoa quả;bữa trưa: Măng tây xào với dầu olive, 1 miếng cá hồi hấp;bữa phụ: 1 quả trứng, 1 quả táo, bữa tối: 200g thịt bò băm viên ăn kèm với rau, canh rau ngót nấu tôm;bữa phụ trước khi ngủ: 1 cốc sữa ít béo. Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "1m6-1m7",
+      "weight": "70-80",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3322 calo/ngày.Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 3522, bạn nên thực hiện khẩu phần ăn bao gồm: 45% calo từ protein, 40% từ tinh bột, 15% từ chất béo tốt, hạn chế sử dụng rượu, thực phẩm chứa nhiều đường, đồ chiên rán. Bữa sáng: 3 lát thịt heo nạc áp chảo kèm với 1 quả trứng ốp la, 1 quả chuối;bữa phụ: 100g ức gà, 2 lát bánh mì, 25g whey protein;bữa trưa: gà xé phay, sinh tố cacao và bơ đậu phộng;bữa phụ: sữa tăng cơ, hoa quả;bữa tối: Nấm xào với thịt nạc, 1 đĩa su su luộc. Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như khoai tây chiên, pizza... Cung cấp 2g đạm trên 1kg trọng lượng cơ thể. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi thoải mái."
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "1m6-1m7",
+      "weight": "trên 80",
+      "stage": "sau thi đấu",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3452 calo/ngày.Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 3252, bạn nên thực hiện khẩu phần ăn 40% lượng calo từ protein, 50% từ tinh bột, 10% từ chất béo. Bữa sáng: 1 quả trứng chiên ăn kèm với 2 lát bánh mì ngũ cốc nướng bơ sáp;bữa phụ: 1 đĩa hoa quả;bữa trưa: Salad rau trộn với sốt mè rang, tôm hấp sả;bữa phụ: 1 quả trứng, 1 quả táo, bữa tối: Salad cá hồi rau mầm;bữa phụ trước khi ngủ: 1 quả trứng luộc, 2 quả chuối tiêu. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "1m6-1m7",
+      "weight": "trên 80",
+      "stage": "đang thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3452 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 3452, bạn nên thực hiện khẩu phần ăn theo quy tắc 40:20:40, 40% tinh bột, 20% chất béo, 40% protein. Bữa sáng: 2 lát bánh mì, 2 quả trứng, 1 cốc sữa đậu nành, 1 quả dưa chuột;bữa trưa: 2 bát cơm, 50g thịt nạc, 1 đĩa đậu bắp, 100 g dưa hấu;bữa ăn nhẹ: bánh ngọt, 1 cốc sữa chua;bữa tối: 1 bát cơm, đậu nhồi thịt hấp, 1 quả lê;bữa phụ: 1 cốc sữa. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn đang thi đấu đối với vận động viên thể hình thì sự gắng sức và thời gian thi đấu không kéo dài nên vấn đề ăn uống trong khi thi đấu ít được đặt ra. Nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,... để đảm bảo sức khoẻ tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine, HMB."
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "1m7-1m8",
+      "weight": "50-60",
+      "stage": "tập luyện",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2896 calo/ngày.Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3396, bạn nên ăn tăng bổ sung thực phẩm giàu, protein và calo, chất béo tốt. Ví dụ bữa 1: 1 tô bún bò, 1 ly sữa, 1 quả chuối;bữa 2: 200g ức gà, 1 hộp sữa chua;bữa 3: 3 chén cơm, canh thịt hầm, cá kho, thịt bò tái, 1 quả trứng;bữa 4: 1,2 quả chuối, bổ sung sữa tăng cơ, bữa 5: 2 chén cơm, canh tôm nấu cải xanh, thị bò xào hoa thiên lý;bữa 6,7: 1 củ khoai lang, 1 ly sữa. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Ngoài ra trong giai đoạn luyện tập căng thẳng cần tập trung vào các thực phẩm giàu protein, cung cấp đủ lượng tinh bột dễ tiêu như: ngũ cốc, sữa, bánh ngọt, chocolate, nước trái cây,... Trong 1 ngày luyện tập ăn 6, 7 bữa cách nhau 2h 1 lần, sau khi tập ăn bổ sung năng lượng đã mất trong khoảng 30p-1h bằng các bữa ăn nhanh. Cần uống nhiều nước trước và sau khi tập luyện(3-4l/1 ngày), bổ sung nước và điện giải sau khi tập luyện sẽ giúp cơ thể phục hồi và đạt hiệu suất cao nhất"
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "1m7-1m8",
+      "weight": "60-70",
+      "stage": "đang thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3156 calo/ngày. Và do mục tiêu của bạn là tăng cơ nên lượng calo cần cung cấp phù hợp là 3356. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn đang thi đấu, bạn nên duy trì thể trạng của bản thân. Nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,...  để đảm bảo sức khoẻ tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine, HMB. Loại nước uống dùng trong khi thi đấu phải nhạt, độ đường khoảng 2,5%, được để mát từ 4-120C, có mùi thơm dễ chịu. Nếu ngọt quá, nước ở lâu trong dạ dày có thể gây rối loạn tiêu hóa. Chỉ nên uống từng ngụm nhỏ, tầm khoảng 400ml trong 30 phút khi thi đấu và 100-200ml sau mỗi 15 phút. Không nên để quá khát mới uống sẽ dẫn đến ảnh hưởng không tốt, nên lưu ý nhu cầu cung cấp nước cho cơ thể của các vận động viên thể hình luôn nhiều hơn."
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "1m7-1m8",
+      "weight": "trên 80",
+      "stage": "sau thi đấu",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3547 calo/ngày.Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 3047, bạn cần hạn chế lượng calo từ chất béo xấu, khẩu phần ăn gồm 35% calo từ protein, 55% calo từ tinh bột, 10% calo từ chất béo. Ăn sáng: 300ml sữa gầy, salad trộn dầu giấm;bữa trưa: Nộm gà xé phay trộn cùng hành tây, 1 hộp sữa chua, vài quả mâm xôi;bữa phụ: sữa chua ít béo, các loại hạt hỗn hợp, nho khô, việt quất;bữa tối: 200g thịt bò xào với ớt chuông bằng dầu oliu, 1 quả cam. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "31-50",
+      "height": "1m6-1m7",
+      "weight": "50-60",
+      "stage": "tập luyện",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2607 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 2607, bạn nên thực hiện khẩu phần ăn theo quy tắc 40:20:40, 40% tinh bột, 20% chất béo, 40% protein. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Kết hợp với trong giai đoạn tập luyện bạn nên thực hiện chế độ ăn 6 bữa 1 ngày, mỗi bữa cách nhau 2,5h 1 lần. Ví dụ bữa 1: 1 tô phở có thịt gà hoặc thịt bò, 1 hộp sữa;bữa 2: 1 quả trứng luộc, 1 xúc xích, 1 quả chuối tiêu;bữa 3: 200 g thăn bò, 1 bát gạo lứt;bữa 4: 1 hộp sữa + 1 chén whey protein;bữa 5: 200g thăn bò, 1 đĩa salad rau;bữa 6: 1 quả trứng luộc, 1 quả chuối tiêu, 1 cốc sữa không đường. Ngoài ra cung cấp đủ lượng nước trước và sau khi tập luyện (3-4l/ngày)"
+    },
+    {
+      "gender": "nam",
+      "age": "31-50",
+      "height": "1m7-1m8",
+      "weight": "dưới 40",
+      "stage": "đang thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2312 calo/ngày. Với thể trạng của bạn nên tập luyện để tăng cơ, tăng cân, bạn nên ăn tăng bổ sung thực phẩm giàu, protein và calo, chất béo tốt. Ví dụ bữa 1: 2 bánh muffin trứng, 1 quả táo,1 ly sữa;bữa 2: 200g thăn bò, 1 bát yến mạch;bữa 3: 300g ức gà xào phô mai, 12 hạt hạnh nhân, 1 ly sữa hạt óc chó ;bữa 4: 1,2 quả chuối, sữa tăng cơ, bữa 5: 1 bát cơm gạo lứt, tôm xào rau bina;bữa 6,7: 300g cá ngừ, 1 đĩa bắp cải cuốn thịt(300g). Với cân nặng của bạn, bạn cần ăn 80g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Bạn nên ăn nạp vào nhiều calo hơn mức bạn đốt cháy mỗi ngày, ngoài ra có thể sử dụng sữa tăng cân, tăng cơ MASS, tốc độ tăng cân an toàn giữ ở mức 0,5-1kg mỗi tuần."
+    },
+    {
+      "gender": "nam",
+      "age": "31-50",
+      "height": "1m7-1m8",
+      "weight": "60-70",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2963 calo/ngày.Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 3163, bạn nên thực hiện khẩu phần ăn bao gồm: 45% calo từ protein, 40% từ tinh bột, 15% từ chất béo tốt, hạn chế sử dụng rượu, thực phẩm chứa nhiều đường, đồ chiên rán. Bữa sáng: 4 quả trứng gà, 1 bát ngũ cốc lúa mì, 1 quả chuối;bữa phụ: 100g ức gà, 2 lát bánh mì, 25g whey protein;bữa trưa: 200g thăn bò, 2 bát cơm, bí đao nấu tôm, bông cải xanh;bữa phụ: sữa tăng cơ, hoa quả;bữa tối: 1 bát cơm đầy (60g), tôm rang 50g, 1 đĩa đậu quả luộc 200g, đu đủ 100g. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như khoai tây chiên, pizza... Cung cấp 2g đạm trên 1kg trọng lượng cơ thể. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi thoải mái."
+    },
+    {
+      "gender": "nam",
+      "age": "31-50",
+      "height": "trên 1m8",
+      "weight": "trên 80",
+      "stage": "sau thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3401 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 3401, bạn nên thực hiện khẩu phần ăn theo quy tắc 40:20:40, 40% tinh bột, 20% chất béo, 40% protein. Bữa sáng: 1 tô phở bò, sữa đậu nành nguyên chất (120ml); Bữa trưa: 3 bát cơm, canh thị bò nấu khoai tây, cài thìa xào nấm; Bữa ăn nhẹ: 1 cốc sữa chua ít béo (200ml), 1 cái bánh ngọt; Bữa chiều: 1 bát gạo lứt, 1 đĩa thịt bò xào giá, 1 bát canh cà chua nấu trứng, 5 quả quýt ngọt (100g); Bữa nhẹ buổi tối: 1 củ khoai lang, 1 quả trứng. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nam",
+      "age": "31-50",
+      "height": "dưới 1m6",
+      "weight": "trên 80",
+      "stage": "tập luyện",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3211 calo/ngày.Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2711, bạn cần hạn chế lượng calo từ chất béo xấu, khẩu phần ăn phù hợp gồm 35% lượng calo từ protein, 55% từ tinh bột, 10% từ chất béo tốt. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn tập luyện trong 1 ngày bạn nên ăn bữa sáng: 45g yến mạch, 300ml sữa gầy, 1 muỗng mật ong;bữa phụ: 1 quả chuối, bánh mì trứng, sữa tăng cơ;bữa trưa: 1 lon cá ngừ với củ cải đường, 1 sữa chua ít chất béo;bữa phụ: 1 quả trứng, 1 quả cam;bữa tối: 1 bát gạo lứt, 120g thịt gà nướng. 1 bữa ăn nhẹ trước khi tập luyện sẽ giúp đốt nhiều calo hơn. Ngoài ra cũng cần cung cấp đủ lượng nước trong 1 ngày(3-4l)"
+    },
+    {
+      "gender": "nam",
+      "age": "trên 50",
+      "height": "dưới 1m6",
+      "weight": "60-70",
+      "stage": "tập luyện",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2691 calo/ngày.Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2491, bạn cần bổ sung đầy đủ chất đạm, đồng thời hạn chế chất béo, tăng cường rau xanh;nên chia khẩu phần ăn hàng ngày gồm 40% protein, 50% calo từ tinh bột, 10% calo từ chất béo, các thực phẩm phổ biến bao gồm: thịt bò, thịt lợn thăn, cá hồi, sữa ít béo, gạo, bột yến mạch, ra cải xanh, xà lách, sắn, đậu xanh, dầu oliu. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn luyện tập hàng ngày ăn 6,7 bữa cách nhau 2 đến 3h 1 lần. Bữa 1: 1 đĩa cơm tấm, 1 ly sữa;bữa 2: 1 quả cam, 1 cốc sữa ít béo, không đường, bữa 3: 2 chén cơm, canh cải nấu ngao, thịt kho trứng ;bữa 4: 1 ly sinh tố xoài, 25g whey protein;bữa 5: 2 chén cơm, canh rau ngót nấu thịt bò, trứng chiên, bò xào nấm kim châm;bữa 6,7: 1 quả chuối. Cung cấp đủ lượng nước cần thiết trước và sau khi tập luyện (3,4 l/ngày)."
+    },
+    {
+      "gender": "nam",
+      "age": "trên 50",
+      "height": "dưới 1m6",
+      "weight": "50-60",
+      "stage": "sau thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2431 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 2431, bạn nên thực hiện khẩu phần ăn theo quy tắc 40:20:40, 40% tinh bột, 20% chất béo, 40% protein. Bữa sáng: 1 tô phở bò, sữa đậu nành nguyên chất (120ml); Bữa trưa: 1 bát gạo lứt, thịt kho tiêu, canh bí đỏ, 1 quả cam; Bữa ăn nhẹ: 1 cốc sữa chua ít béo (200ml), 1 quả chuối; Bữa chiều: 1 bát cơm (60g gạo), 1 đĩa thịt bò xào giá, 1 bát canh cà chua nấu trứng; Bữa nhẹ buổi tối: 1 ly sữa, 1 củ sắn. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau…"
+    },
+    {
+      "gender": "nữ",
+      "age": "19-30",
+      "height": "1m6-1m7",
+      "weight": "40-50",
+      "stage": "tập luyện",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2485 calo/ ngày. Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 2485, với mục tiêu duy trì thể trạng, bạn cần ăn 40% từ tinh bột, 20% từ chất béo, 40% từ đạm.Bù đắp đủ calo tiêu hao hàng ngày bằng các thức ăn dạng chất bột (gluxit) và chất béo (lipit). Với cân nặng của bạn, bạn cần ăn 90g đạm ",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày, các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp. Bữa sáng: 30g thịt nạc, 1 cốc sữa đậu nành nguyên chất (200ml), 1 quả dưa chuột (100g), 2 quả trứng gà; Bữa trưa: 2 bát cơm (80g gạo), thịt nạc vai (30g), 1 đĩa rau muống luộc (200g), 1 miếng dưa hấu (100g); Bữa phụ: 1 hũ sữa chua ít béo (200ml), 5g đường hoặc 1 cái bánh ngọt. Bữa tối: 1 bát cơm (60g gạo), đậu phụ nhồi thịt hấp gồm 50g đậu phụ và 30g thịt nạc vai, 1 quả lê (100g); Bữa phụ: 1 cốc sữa không đường"
+    },
+    {
+      "gender": "nữ",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "dưới 40",
+      "stage": "sắp thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2378 calo/ ngày. Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 2378, với mục tiêu duy trì thể trạng, bạn cần ăn 40% từ tinh bột, 20% từ chất béo, 40% từ đạm.Bù đắp đủ calo tiêu hao hàng ngày bằng các thức ăn dạng chất bột (gluxit) và chất béo (lipit). Bạn cần ăn 80g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng...",
+      "conclude2": "Kết hợp với giai đoạn sắp thi đấu, bạn nên tránh xa các món ăn mặn, nhiều dầu, mỡ, đường. Trước 1 tuần thi thể hình, các vận động viên sẽ áp dụng chế độ ăn bình thường. Ba ngày sau đó các vận động viên sẽ ăn nhiều chất béo và chất đạm, chất đường bột giảm xuống còn 20-30%. Sát buổi thi đấu 3 ngày sẽ tiếp nạp nhiều tinh bột vào cơ thể, nghỉ ngơi không luyện tập, giữ tinh thần thật sảng khoái và thoải mái. Bữa sáng: 30g thịt nạc, 200ml sữa không đường, 2 quả trứng gà; Bữa trưa: 2 bát cơm (80g gạo),30g thịt nạc vai, 200g đĩa rau muống luộc, 100g miếng dưa hấu ; Bữa phụ: 200ml hũ sữa chua ít béo. Bữa tối: 1 bát cơm (60g gạo), 50g đậu phụ và 30g thịt nạc vai, 1 quả lê; Bữa phụ: 200ml sữa đậu lành"
+    },
+    {
+      "gender": "nữ",
+      "age": "31-50",
+      "height": "1m6-1m7",
+      "weight": "50-60",
+      "stage": "đang thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2489 calo/ ngày. Và do mục tiêu của bạn là duy trì thể trạng nên lượng calo cần cung cấp phù hợp là 2489, với mục tiêu duy trì thể trạng, bạn cần ăn 40% tinh bột, 20% chất béo, 40% đạm. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà ",
+      "conclude2": "Kết hợp với giai đoạn đang thi đấu, bạn nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa để đảm bảo sức khỏe tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine (thực phẩm giúp cơ bắp sản xuất năng lượng trong quá trình tập luyện- nên nghe chỉ dẫn của chuyên ra khi sử dụng), HMB. Bữa sáng: 200g súp lơ xanh,100g thịt bò, 200ml cốc sữa đậu nành,100g khoai tây luộc, 2 trứng gà; Bữa trưa: 2 bát cơm (80g gạo),30g thịt nạc vai, 200g rau muống luộc, 1 miếng dưa hấu (100g); Bữa phụ: 1 hũ sữa chua ít béo; Bữa tối: 1 bát cơm (60g gạo), 50g đậu phụ và 30g thịt nạc vai, 1 quả táo; Bữa phụ: 200ml không đường"
+    },
+    {
+      "gender": "nữ",
+      "age": "trên 50",
+      "height": "1m7-1m8",
+      "weight": "50-60",
+      "stage": "sau thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2399 calo/ ngày. Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 2399, với mục tiêu duy trì thể trạng, bạn cần ăn 40% từ tinh bột, 20% từ chất béo, 40% từ đạm. Bù đắp đủ calo tiêu hao hàng ngày bằng các thức ăn dạng chất bột (gluxit) và chất béo (lipit). Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau. Bữa sáng: 200g súp lơ xanh,100g ức gà, 1 cốc sinh tố (200ml),100g khoai tây luộc, 2 quả trứng gà; Bữa trưa: 2 bát cơm (80g gạo), thịt nạc vai (30g),200g rau muống luộc, 1 miếng dưa hấu (100g); Bữa phụ: 1 hũ sữa chua ít béo (200ml), 5g đường; Bữa tối: 60g gạo,50g đậu phụ và 30g thịt nạc vai, 1 quả táo (100g); Bữa phụ: 1 cốc sữa không đường."
+    },
+    {
+      "gender": "nữ",
+      "age": "trên 50",
+      "height": "1m7-1m8",
+      "weight": "60-70",
+      "stage": "đang thi đấu",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2582 calo/ ngày. Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 2582, với mục tiêu duy trì thể trạng, bạn cần ăn 40% từ tinh bột, 20% từ chất béo, 40% từ đạm. Bù đắp đủ calo tiêu hao hàng ngày bằng các thức ăn dạng chất bột (gluxit) và chất béo (lipit). Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà.",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp.Vào mùa tập luyện căng thẳng, cần chú ý ăn đầy đủ chất bột đường dễ tiêu. Bữa sáng: 3 quả trứng,150g thịt bò, 1 ly sinh tố. Bữa phụ: 1 hộp sữa chua, 1 đĩa hoa quả. Bữa trưa: 250g ức gà nướng,100g súp lơ, 1 đĩa rau salad. Bữa phụ: 1 quả lê. Bữa tối: 1 đĩa salad cá ngừ. Bữa phụ: 1 ly sữa Hy lạp,"
+    },
+    {
+      "gender": "nữ",
+      "age": "14-18",
+      "height": "trên 1m8",
+      "weight": "40-50",
+      "stage": "tập luyện",
+      "target": "duy trì thể trạng",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2538 calo/ ngày. Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 2538, bạn cần ăn 40% từ tinh bột, 20% từ chất béo, 40% từ đạm. Bù đắp đủ calo tiêu hao hàng ngày bằng các thức ăn dạng chất bột (gluxit) và chất béo (lipit). Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp. Vào mùa tập luyện căng thẳng, cần chú ý ăn đầy đủ chất bột đường dễ tiêu. Bữa sáng: 3 quả trứng,150g thịt bò, 1 ly sinh tố. Bữa phụ: 1 hộp sữa chua, 1 đĩa hoa quả. Bữa trưa: 250g ức gà nướng,100g súp lơ, 1 đĩa rau salad. Bữa phụ: 1 quả lê. Bữa tối: 1 đĩa salad cá ngừ. Bữa phụ: 1 ly sữa Hy lạp."
+    },
+    {
+      "gender": "nữ",
+      "age": "19-30",
+      "height": "trên 1m8",
+      "weight": "60-70",
+      "stage": "tập luyện",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2867 calo/ ngày. Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 3067, với mục tiêu tăng cơ, bạn cần ăn 45% lượng calo từ protein, 40% lượng calo từ tinh bột, 15% lượng calo từ chất béo. Tránh thực phẩm chiên rán,chứa nhiều đường, rượu, đồ uống có ga. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp. Bữa sáng : 4 quả trứng gà, 1 chén sữa kem ngũ cốc lúa mì, 1 quả chuối. Bữa phụ : 2 lát bánh mì gạo nguyên hạt, 2 lát phô mai, 100g ức gà; Bữa trưa : 250 thịt bò, 2 chén mì ống, ¾ bát bông cải xanh; Bữa phụ: Sinh tố protein 200ml và 1 lê. Bữa tối : 200g ức gà, 1 khoai lang, 1 bát trộn lẫn đậu ngô cà rốtBữa phụ: 1 hũ sữa Hy Lạp"
+    },
+    {
+      "gender": "nữ",
+      "age": "trên 50",
+      "height": "1m6-1m7",
+      "weight": "60-70",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2582 calo/ ngày. Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 2782, với mục tiêu tăng cơ, bạn cần ăn 45% lượng calo từ protein, 40% lượng calo từ tinh bột, 15% lượng calo từ chất béo. Tránh thực phẩm chiên rán,chứa nhiều đường, rượu, đồ uống có ga. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ. Trước 1 tuần thi thể hình, các vận động viên sẽ áp dụng chế độ ăn bình thường. Ba ngày sau đó các vận động viên sẽ ăn nhiều chất béo và chất đạm, chất đường bột giảm xuống còn 20-30%. Sát buổi thi đấu 3 ngày, các vận động viên sẽ tiếp nạp nhiều tinh bột vào cơ thể nghỉ ngơi không luyện tập, giữ tinh thần thật sảng khoái và thoải mái. Bữa sáng : 4 quả trứng, 1 chén sữa kem ngũ cốc lúa mì, 1 lê. Bữa phụ : 2 lát bánh mì gạo nguyên hạt, 2 lát phô mai, 100g ức gà; Bữa trưa : 250 thịt bò, 2 chén mì ống, 1 bát bông cải xanh; Bữa phụ: Sinh tố protein 200ml và 1 lê. Bữa tối :200g ức gà, 1 khoai lang; Bữa phụ: 1 quả táo"
+    },
+    {
+      "gender": "nữ",
+      "age": "14-18",
+      "height": "trên 1m8",
+      "weight": "70-80",
+      "stage": "đang thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3085 calo/ ngày. Và do mục tiêu của bạn là tăng cơ nhưng bạn đang ở giai đoạn đang thi đấu, nên lượng calo cần cung cấp phù hợp là 3085, Trong giai đoạn đang thi đấu, bạn nên duy trì thể trạng của bản thân, đối với vận động viên thể hình thì sự gắng sức và thời gian thi đấu không kéo dài. Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà.....",
+      "conclude2": "Nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua... để đảm bảo sức khỏe tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine (thực phẩm giúp cơ bắp sản xuất năng lượng trong quá trình tập luyện- nên nghe chỉ dẫn của chuyên ra khi sử dụng), HMB (một chất hỗ trợ cho việc giảm sự mất cơ, hỗ trợ tổng hợp protein, cải thiện khối lượng cơ, sức mạnh và các cơ quan quan trọng trong cơ thể). nước uống có nồng độ đường 2,5% (nước thể thao, nước ngọt pha loãng 1/2), uống từng ngụm nhỏ 400ml trong 30 phút trước khi thi đấu, 100-200ml mỗi 15 phút."
+    },
+    {
+      "gender": "nữ",
+      "age": "31-50",
+      "height": "1m6-1m7",
+      "weight": "40-50",
+      "stage": "sau thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2306 calo/ ngày. Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 2596, với mục tiêu tăng cơ, bạn cần ăn 45% lượng calo từ protein, 40% lượng calo từ tinh bột, 15% lượng calo từ chất béo.Tránh thực phẩm chiên rán,chứa nhiều đường, rượu, đồ uống có ga. Với cân nặng của bạn, bạn cần ăn 90g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà.....   ",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, yến mạch và rau. Bữa sáng : 2 quả trứng gà,2 lát phô mai, 1 quả chuối. Bữa phụ : 2 lát bánh mì gạo nguyên hạt, 2 lát phô mai, 100g ức gà; Bữa trưa : 200 thịt bò, 2 chén mì ống, ¾ bát bông cải xanh; Bữa phụ: Sinh tố protein 200ml và 1 lê. Bữa tối : 200g ức gà, 1 khoai lang, 1 bát trộn lẫn đậu ngô cà rốt; Bữa phụ: 300ml sữa đậu lành"
+    },
+    {
+      "gender": "nữ",
+      "age": "trên 50",
+      "height": "dưới 1m6",
+      "weight": "50-60",
+      "stage": "tập luyện",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2348 calo/ ngày. Và do mục tiêu của bạn là tăng cơ nên lượng calo cần cung cấp phù hợp là 2548, với mục tiêu tăng cơ, bạn cần ăn 40% từ tinh bột, 20% từ chất béo, 40% từ đạm. Bù đắp đủ calo tiêu hao hàng ngày bằng các thức ăn dạng chất bột (gluxit) và chất béo (lipit). Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp. Bữa sáng: 5 quả trứng gà, 2 lát bánh mì đen, 1 trái táo. Bữa phụ : Sinh tố Whey và Blueberry, Pha 1 ly sinh tố với 2 thìa Whey Protein và 1 chén Blueberry, thêm 12 hạt hạnh nhân hoặc 1 ly sữa hạnh nhân. Bữa trưa: 150g thịt bò, salad với 1 trái dưa leo, đậu gà, dầu oliu và 1 quả cà chua. Bữa phụ : 1 quả chuối cùng 1 thìa bột Whey Protein. Bữa tối: 150g ức gà, salad rau với hạt quinoa và hạt điều. Bữa phụ : 3 củ khoai lang, 150g cá ngừ, 1 chén bông cải xanh luộc và 1 thìa bơ."
+    },
+    {
+      "gender": "nữ",
+      "age": "31-50",
+      "height": "trên 1m8",
+      "weight": "trên 80",
+      "stage": "sau thi đấu",
+      "target": "tăng cơ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2962 calo/ ngày. Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 3162, với mục tiêu tăng cơ, bạn cần ăn 45% lượng calo từ protein, 40% lượng calo từ tinh bột, 15% lượng calo từ chất béo.Tránh uống rượu, thực phẩm chiên gián, thực phẩm nhiều đường, đồ uống có ga. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau. Bữa sáng : 4 quả trứng gà, 1 chén sữa kem ngũ cốc lúa mì, 1 quả chuối. Bữa phụ : 2 lát bánh mì gạo nguyên hạt, 2 lát phô mai, 100g ức gà; Bữa trưa : 250 thịt bò, 2 chén mì ống, 1 bát bông cải xanh; Bữa phụ: Sinh tố protein 200ml và 1 lê. Bữa tối : 200g thịt nạc, 1 khoai lang, 1 bát trộn lẫn đậu ngô cà rốt; Bữa phụ: 1 hũ sữa Hy Lạp"
+    },
+    {
+      "gender": "nữ",
+      "age": "trên 50",
+      "height": "dưới 1m6",
+      "weight": "dưới 40",
+      "stage": "đang thi đấu",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2074 calo/ ngày. Và do mục tiêu của bạn là tăng cơ tăng cân.Do bạn đang ở giai đoạn đang thi đấu nên lượng calo cần cung cấp phù hợp là 2074, Trong giai đoạn đang thi đấu, bạn nên duy trì thể trạng của bản thân, đối với vận động viên thể hình thì sự gắng sức và thời gian thi đấu không kéo dài. Với cân nặng của bạn, bạn cần ăn 80g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Bạn nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,... để đảm bảo sức khỏe tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine, HMB. Ngoài ra trong khi thi đấu cần cung cấp đủ nước, ít khoáng chất, cung cấp ít, nhẹ, từ từ: Nước uống có nồng độ đường 2,5% (nước thể thao, nước ngọt pha loãng 1/2), uống từng ngụm nhỏ 400ml trong 30 phút trước khi thi đấu, 100-200ml mỗi 15 phút. Không nên đợi khát mới uống vì cơ thể thiếu nước sẽ mỏi mệt và giảm khả năng thi đấu."
+    },
+    {
+      "gender": "nữ",
+      "age": "31-50",
+      "height": "1m7-1m8",
+      "weight": "40-50",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2306 calo/ ngày. Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 2806, với mục tiêu tăng cơ tăng cân, bạn cần sung thực phẩm giàu chất béo tốt, tốc độ tăng cân an toàn phù hợp là 0.5 - 1kg mỗi tuần. Tăng bổ sung thực phẩm giàu chất béo tốt,cần ăn các thực phẩm giàu carbs, protein và calo bổ sung vào những thời điểm phù hợp. Với cân nặng của bạn, bạn cần ăn 90g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi để tinh thần thư giãn thoải mái. Bữa sáng: 3 quả trứng gà và 4 lòng trắng trứng gà, 1 ít bơ và hành lá, 2 lát bánh mì đen, 1 trái táo. Bữa phụ : 2 thìa Whey Protein và 1 chén Blueberry. Bữa trưa: 150g thịt bò, salad với 1 trái dưa leo, đậu gà, dầu oliu và 1 - 2 quả cà chua. Bữa phụ : 1 - 2 quả chuối cùng 1 thìa bột Whey Protein. Bữa tối: 150g ức gà, salad rau với hạt quinoa và hạt điều. Bữa phụ : 3 củ khoai lang, 150g cá ngừ, 1 chén bông cải xanh luộc."
+    },
+    {
+      "gender": "nữ",
+      "age": "19-30",
+      "height": "trên 1m8",
+      "weight": "60-70",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2867 calo/ ngày. Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3367, với mục tiêu tăng cơ tăng cân, bạn cần sung thực phẩm giàu chất béo tốt, tốc độ tăng cân an toàn phù hợp là 0.5 - 1kg mỗi tuần. Tăng bổ sung thực phẩm giàu chất béo tốt,cần ăn các thực phẩm giàu carbs, protein và calo bổ sung vào những thời điểm phù hợp. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi để tinh thần thư giãn thoải mái. Bữa sáng: 3 quả trứng gà và 4 lòng trắng trứng gà, 1 ít bơ và hành lá, 2 lát bánh mì đen, 1 trái táo. Bữa phụ : 2 thìa Whey Protein và 1 chén Blueberry. Bữa trưa: 150g thịt bò, salad với 1 trái dưa leo, đậu gà, dầu oliu và 1 - 2 quả cà chua. Bữa phụ : 1 - 2 quả chuối cùng 1 thìa bột Whey Protein. Bữa tối: 150g ức gà, salad rau với hạt quinoa và hạt điều. Bữa phụ : 3 củ khoai lang, 150g cá ngừ, 1 chén bông cải xanh luộc."
+    },
+    {
+      "gender": "nữ",
+      "age": "14-18",
+      "height": "1m7-1m8",
+      "weight": "50-60",
+      "stage": "tập luyện",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2703 calo/ ngày. Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3203, với mục tiêu tăng cơ tăng cân, bạn cần ăn bạn cần sung thực phẩm giàu chất béo tốt, tốc độ tăng cân an toàn phù hợp là 0.5 - 1kg mỗi tuần. Tăng bổ sung thực phẩm giàu chất béo tốt,cần ăn các thực phẩm giàu carbs, protein và calo bổ sung vào những thời điểm phù hợp. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà.",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp. Bữa sáng: 3 quả trứng gà và 4 lòng trắng trứng gà, 1 ít bơ và hành lá, 2 lát bánh mì đen, 1 trái táo. Bữa phụ : Sinh tố Whey và Blueberry, Pha 1 ly sinh tố với 2 thìa Whey Protein và 1 chén Blueberry, thêm 15 hạt hạnh nhân. Bữa trưa: 150g thịt bò, salad với 1 trái dưa leo, đậu gà, dầu oliu và 1 quả cà chua. Bữa phụ : 2 quả chuối cùng 1 thìa bột Whey Protein. Bữa tối: 150g ức gà, salad rau với hạt quinoa và hạt điều. Bữa phụ : 3 củ khoai lang, 150g cá ngừ, 1 chén bông cải xanh luộc."
+    },
+    {
+      "gender": "nữ",
+      "age": "14-18",
+      "height": "1m7-1m8",
+      "weight": "dưới 40",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2429 calo/ ngày. Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 2929, với mục tiêu tăng cơ tăng cân, bạn cần sung thực phẩm giàu chất béo tốt, tốc độ tăng cân an toàn phù hợp là 0.5 - 1kg mỗi tuần. Tăng bổ sung thực phẩm giàu chất béo tốt,cần ăn các thực phẩm giàu carbs, protein và calo bổ sung vào những thời điểm phù hợp.  Với cân nặng của bạn, bạn cần ăn 80g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như pho mai que, bánh rán... Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi để tinh thần thư giãn thoải mái. Bữa sáng: 3 quả trứng gà, 1 ít bơ và hành lá, 2 lát bánh mì đen, 1 trái táo. Bữa phụ : Sinh tố Whey và Blueberry, Pha 1 ly sinh tố với 2 thìa Whey Protein và 1 chén Blueberry. Có thể uống cùng đá để thấy ngon miệng hơn. Bữa trưa: 150g thịt bò, salad với 1 trái dưa leo, đậu gà, dầu oliu và 2 quả cà chua. Bữa phụ : 2 quả chuối cùng 1 thìa bột Whey Protein. Bữa tối: 150g ức gà, 200g bông cải xanh. Bữa phụ : 3 củ khoai lang, 150g cá ngừ, 1 chén bông cải xanh luộc và 1 thìa bơ"
+    },
+    {
+      "gender": "nữ",
+      "age": "19-30",
+      "height": "trên 1m8",
+      "weight": "40-50",
+      "stage": "tập luyện",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2502 calo/ ngày. Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3002, với mục tiêu tăng cơ tăng cân, bạn nên ăn thực phẩm giàu chất béo tốt, tốc độ tăng cân an toàn phù hợp là 0.5 - 1kg mỗi tuần. Tăng bổ sung thực phẩm giàu chất béo tốt,cần ăn các thực phẩm giàu carbs, protein và calo bổ sung vào những thời điểm phù hợp. Với cân nặng của bạn, bạn cần ăn 90g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn sắp thi đấu, bạn Kết hợp với giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như pho mai que, bánh rán. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi để tinh thần thư giãn thoải mái. Bữa sáng: 3 quả trứng gà, 2 lát bánh mì đen, 1 trái táo. Bữa phụ : Sinh tố Whey và Blueberry, Pha 1 ly sinh tố với 2 thìa Whey Protein và 1 chén Blueberry. Có thể uống cùng đá để thấy ngon miệng hơn. Bữa trưa: 150g thịt bò, salad với 1 trái dưa leo, đậu gà, dầu oliu và 2 quả cà chua. Bữa phụ : 2 quả chuối cùng 50g bột Whey Protein. Bữa tối: 150g ức gà, salad rau với hạt quinoa và hạt điều. Bữa phụ : 3 củ khoai lang, 150g cá ngừ, 150g bông cải xanh luộc và 1 thìa bơ"
+    },
+    {
+      "gender": "nữ",
+      "age": "31-50",
+      "height": "trên 1m8",
+      "weight": "40-50",
+      "stage": "tập luyện",
+      "target": "tăng cơ tăng cân",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2502 calo/ ngày. Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3002, bạn nên ăn thực phẩm giàu chất béo tốt, tốc độ tăng cân an toàn phù hợp là 0.5 - 1kg mỗi tuần. Tăng bổ sung thực phẩm giàu chất béo tốt, cần ăn các thực phẩm giàu carbs, protein và calo bổ sung vào những thời điểm phù hợp. Với cân nặng của bạn, bạn cần ăn 90g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp. Bữa sáng: 3 quả trứng gà và 4 lòng trắng trứng gà, 1 ít bơ và hành lá, 2 lát bánh mì đen, 1 trái táo. Bữa phụ : Sinh tố Whey và Blueberry, Pha 1 ly sinh tố với 2 thìa Whey Protein và 1 chén Blueberry, thêm 10 - 15 hạt hạnh nhân hoặc 1 ly sữa hạnh nhân. Có thể uống cùng đá để thấy ngon miệng hơn. Bữa trưa: 150g thịt bò nướng, salad với 1 trái dưa leo, đậu gà, dầu oliu và 1 - 2 quả cà chua. Bữa phụ : 1 - 2 quả chuối cùng 1 thìa bột Whey Protein. Bữa tối: 150g ức gà, salad rau với hạt quinoa và hạt điều. Bữa phụ : 3 củ khoai lang, 150g cá ngừ, 1 chén bông cải xanh luộc và 1 thìa bơ."
+    },
+    {
+      "gender": "nữ",
+      "age": "19-30",
+      "height": "dưới 1m6",
+      "weight": "50-60",
+      "stage": "tập luyện",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2616 calo/ ngày. Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2416, với mục tiêu tăng cơ giảm mỡ, bạn cần ăn 45% lượng calo từ protein, 40% lượng calo từ tinh bột, 15% lượng calo từ chất béo. Bổ sung đầy đủ chất đạm, đồng thời hạn chế chất béo, tăng cường rau xanh. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp. Vào mùa tập luyện căng thẳng, cần chú ý ăn đầy đủ chất bột đường dễ tiêu như bánh mì, cơm, trái cây, có thể sử dụng các loại đường nhanh như bánh ngọt, kẹo. Bữa sáng: 2 quả trứng và 2 lòng trắng trứng gà, 2 lát bánh mì đen, 1 ly sinh tố. Bữa phụ: 1 hộp sữa chua, 1 đĩa hoa quả. Bữa trưa: 150g ức gà nướng, 1 đĩa rau salad, 1 quả chuối. Bữa phụ: 1 quả táo, 200ml sữa không đường. Bữa tối: 1 đĩa salad cá ngừ. Bữa phụ: 1 sữa không đường 200ml, 100g bông cải xanh luộc"
+    },
+    {
+      "gender": "nữ",
+      "age": "31-50",
+      "height": "1m6-1m7",
+      "weight": "60-70",
+      "stage": "tập luyện",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2637 calo/ ngày. Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2437, với mục tiêu tăng cơ giảm mỡ, bạn cần bổ sung đầy đủ chất đạm, đồng thời hạn chế chất béo, tăng cường rau xanh. Một số chất bổ sung hữu ích: whey protein, creatineVới cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp.Vào mùa tập luyện căng thẳng, cần chú ý ăn đầy đủ chất bột đường dễ tiêu như bánh mì, cơm, trái cây, có thể sử dụng các loại đường nhanh như bánh ngọt, kẹo, chocolate, mứt, nước trái cây. Bữa sáng: 2 quả trứng, 2 lát bánh mì đen, 300ml ly sinh tố. Bữa phụ: 1 hộp sữa chua, 1 đĩa hoa quả. Bữa trưa: 200g thịt bò, 100g súp lơ xanh, 1 đĩa rau salad. Bữa phụ: 1 quả táo, 1 hũ sữa chua không đường. Bữa tối: 1 đĩa salad cá ngừ. Bữa phụ: 1 ly sữa không đường 200ml"
+    },
+    {
+      "gender": "nữ",
+      "age": "19-30",
+      "height": "dưới 1m6",
+      "weight": "50-60",
+      "stage": "đang thi đấu",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2616 calo/ ngày. Và do mục tiêu của bạn là tăng cơ giảm mỡ nhưng bạn đang thi đấu, nên lượng calo cần cung cấp phù hợp là 2616. Trong giai đoạn đang thi đấu, bạn nên duy trì thể trạng của bản thân, đối với vận động viên thể hình thì sự gắng sức và thời gian thi đấu không kéo dài nên vấn đề ăn uống trong khi thi đấu ít được đặt ra. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà....",
+      "conclude2": "Bạn nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,... để đảm bảo sức khỏe tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine, HMB. Ngoài ra trong khi thi đấu cần cung cấp đủ nước, ít khoáng chất, cung cấp ít, nhẹ, từ từ: Nước uống có nồng độ đường 2,5% (nước thể thao, nước ngọt pha loãng 1/2), uống từng ngụm nhỏ 400ml trong 30 phút trước khi thi đấu, 100-200ml mỗi 15 phút. Không nên đợi khát mới uống vì cơ thể thiếu nước sẽ mỏi mệt và giảm khả năng thi đấu."
+    },
+    {
+      "gender": "nữ",
+      "age": "19-30",
+      "height": "1m6-1m7",
+      "weight": "trên 80",
+      "stage": "sau thi đấu",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3089 calo/ ngày. Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2889, với mục tiêu tăng cơ giảm mỡ, bạn cần ăn 45% lượng calo từ protein, 40% lượng calo từ tinh bột, 15% lượng calo từ chất béo. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau. Bữa sáng: 4 quả trứng, 2 lát bánh mì đen, 1 ly sinh tố. Bữa phụ: 1 hộp sữa chua, 1 đĩa hoa quả. Bữa trưa: 250g ức gà, canh bí đỏ, 1 đĩa rau salad. Bữa phụ: 1 quả táo. Bữa tối: 1 đĩa salad cá ngừ. Bữa phụ: 1 ly sữa không đường 300ml"
+    },
+    {
+      "gender": "nữ",
+      "age": "14-18",
+      "height": "1m7-1m8",
+      "weight": "70-80",
+      "stage": "đang thi đấu",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3068 calo/ ngày. Và do mục tiêu của bạn là tăng cơ giảm mỡ do bạn đang, nên lượng calo cần cung cấp phù hợp là 3068, Trong giai đoạn đang thi đấu, bạn nên duy trì thể trạng của bản thân, đối với vận động viên thể hình thì sự gắng sức và thời gian thi đấu không kéo dài nên vấn đề ăn uống trong khi thi đấu ít được đặt ra. Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Bạn nên tăng cường ăn hoa quả, rau xanh và các chế phẩm từ sữa: phomai, sữa chua,... để đảm bảo sức khỏe tham gia thi đấu. Ngoài ra sử dụng sữa tăng cơ như creatine (thực phẩm giúp cơ bắp sản xuất năng lượng trong quá trình tập luyện- nên nghe chỉ dẫn của chuyên ra khi sử dụng), HMB (một chất hỗ trợ cho việc giảm sự mất cơ, hỗ trợ tổng hợp protein, cải thiện khối lượng cơ, sức mạnh và các cơ quan quan trọng trong cơ thể). nước uống có nồng độ đường 2,5% (nước thể thao, nước ngọt pha loãng 1/2), uống từng ngụm nhỏ 400ml trong 30 phút trước khi thi đấu, 100-200ml mỗi 15 phút."
+    },
+    {
+      "gender": "nữ",
+      "age": "trên 50",
+      "height": "dưới 1m6",
+      "weight": "50-60",
+      "stage": "sắp thi đấu",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2348 calo/ ngày. Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2148, với mục tiêu tăng cơ giảm mỡ, bạn cần ăn: 45% lượng calo từ protein, 40% lượng calo từ tinh bột, 15% lượng calo từ chất béo.Bổ sung đầy đủ chất đạm, đồng thời hạn chế chất béo, tăng cường rau xanh. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ. Trước 1 tuần thi thể hình, các vận động viên sẽ áp dụng chế độ ăn bình thường. Ba ngày sau đó các vận động viên sẽ ăn nhiều chất béo và chất đạm, chất đường bột giảm xuống còn 20-30%. Sát buổi thi đấu 3 ngày, các vận động viên sẽ tiếp nạp nhiều tinh bột vào cơ thể, trong đó đường bột 75%, đạm 15% và nghỉ ngơi không luyện tập, giữ tinh thần thật sảng khoái và thoải mái. Bữa sáng: 3 quả trứng,100g thịt nạc, 1 ly sinh tố. Bữa phụ: 1 hộp sữa chua, 1 đĩa hoa quả. Bữa trưa: 200g ức gà, canh bí đỏ, 1 đĩa rau salad. Bữa phụ: 1 quả táo. Bữa tối: 1 đĩa salad cá ngừ. Bữa phụ: 200ml sữa đậu lành"
+    },
+    {
+      "gender": "nữ",
+      "age": "31-50",
+      "height": "trên 1m8",
+      "weight": "trên 80",
+      "stage": "tập luyện",
+      "target": "tăng cơ giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2962 calo/ ngày. Và do mục tiêu của bạn là tăng cơ giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2762, với mục tiêu tăng cơ giảm mỡ, bạn cần ăn 45% lượng calo từ protein, 40% lượng calo từ tinh bột, 15% lượng calo từ chất béo. Bổ sung đầy đủ chất đạm, đồng thời hạn chế chất béo, tăng cường rau xanh. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp. Vào mùa tập luyện căng thẳng, cần chú ý ăn đầy đủ chất bột đường dễ tiêu như bánh mì, cơm, trái cây, có thể sử dụng các loại đường nhanh như bánh ngọt, kẹo, chocolate, mứt, nước trái cây. Bữa sáng: 2 quả trứng, 2 lát bánh mì đen, 1 ly sinh tố. Bữa phụ: 1 hộp sữa chua, 1 đĩa hoa quả. Bữa trưa: 200g ức gà, canh bí đỏ, 1 đĩa rau salad. Bữa phụ: 1 quả táo. Bữa tối: 1 đĩa salad cá ngừ. Bữa phụ: 1 ly sữa không đường 200ml"
+    },
+    {
+      "gender": "nữ",
+      "age": "19-30",
+      "height": "dưới 1m6",
+      "weight": "40-50",
+      "stage": "tập luyện",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2433 calo/ ngày. Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 1933, với mục tiêu giảm mỡ, bạn cần hạn chế lượng calo từ chất béo, đặc biệt là chất béo xấu, lượng calo tiêu thụ phải lớn hơn lượng calo thu vào,35% lượng calo từ protein, 55% lượng calo từ tinh bột, 10% lượng calo từ chất béo. Với cân nặng của bạn, bạn cần ăn 90g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp. Vào mùa tập luyện căng thẳng, cần chú ý ăn đầy đủ chất bột đường dễ tiêu như bánh mì, cơm, trái cây, có thể sử dụng các loại đường nhanh như bánh ngọt, kẹo, mứt, nước trái cây. Bữa sáng: Smoothie – pha trộn 25g whey protein, 300ml sữa này, 100g dâu tây và chuỗi. Bữa phụ :90g cả thu, 1 lát bánh mì nướng nguyên hạt. Bữa trưa: 1 quả táo, bánh sandwich (nguyên cám) salad gà. Bữa phụ: 1 bát yến mạch (50g). Bữa tối: 120g thịt bò phi lẽ với rau bina và 2 cà chua nướng. Bữa phụ: 1 quả táo, 200g súp lơ xanh"
+    },
+    {
+      "gender": "nữ",
+      "age": "31-50",
+      "height": "1m6-1m7",
+      "weight": "60-70",
+      "stage": "sắp thi đấu",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2637 calo/ ngày. Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2137, với mục tiêu giảm mỡ, bạn cần hạn chế lượng calo từ chất béo, đặc biệt là chất béo xấu.bạn cần sử dụng những thực phẩm tươi sạch, không qua chế biến, không có chất bảo quản, phụ gia. Lượng calo tiêu thụ phải lớn hơn lượng calo thu vào. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu. Trước 1 tuần thi, bạn nên áp dụng chế độ ăn bình thường. Ba ngày sau đó bạn nên ăn nhiều chất béo và chất đạm, chất đường bột giảm xuống còn 20-30%. Sát buổi thi đấu 3 ngày, bạn cần tiếp nạp nhiều tinh bột vào cơ thể và nghỉ ngơi không luyện tập, giữ tinh thần thật sảng khoái và thoải mái. Bữa sáng: 400ml sữa đậu lành, 100g dâu tây. Bữa phụ : 120g cả thu, 1 lát bánh mì nướng nguyên hạt. Bữa trưa: 1 quả táo, bánh sandwich (nguyên cám) salad gà. Bữa phụ: 50g bát yến mạch. Bữa tối: 120g thịt bò phi lẽ với rau bina và 2 cà chua. Bữa phụ: 2 quả táo, 200g súp lơ xanh"
+    },
+    {
+      "gender": "nữ",
+      "age": "trên 50",
+      "height": "trên 1m8",
+      "weight": "dưới 40",
+      "stage": "đang thi đấu",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2143 calo/ ngày. Và do mục tiêu của bạn là giảm mỡ, tuy nhiên thể trạng của bạn hiện đang gầy, nên chúng tôi khuyên bạn nên tăng cơ tăng cân, lượng calo cần cung cấp phù hợp là 2600. Với cân nặng của bạn thì bạn không đủ sức khỏe để thi đấu. Với cân nặng của bạn, bạn cần ăn 80g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà.",
+      "conclude2": "Bạn nên ăn lượng calo ăn vào nhiều hơn mức cơ thể sử dụng mỗi ngày. Tăng bổ sung thực phẩm giàu chất béo tốt. Bữa sáng: 3 quả trứng gà, 1 ít bơ và hành lá, 2 lát bánh mì đen, 1 trái táo. Bữa phụ : Sinh tố Whey và Blueberry, 2 thìa Whey Protein và 1 chén Blueberry, thêm 10 hạt hạnh nhân hoặc 1 ly sữa hạnh nhân. Có thể uống cùng đá để thấy ngon miệng hơn. Bữa trưa: 150g thịt bò, salad với 1 trái dưa leo, đậu gà, dầu oliu và 1 quả cà chua. Bữa phụ : 1 quả chuối cùng 1 thìa bột Whey Protein. Bữa tối: 150g ức gà, salad rau với hạt quinoa và hạt điều. Bữa phụ : 3 củ khoai lang, 150g cá ngừ, 1 chén bông cải xanh luộc và 1 thìa bơ."
+    },
+    {
+      "gender": "nữ",
+      "age": "14-18",
+      "height": "trên 1m8",
+      "weight": "60-70",
+      "stage": "sau thi đấu",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2902 calo/ ngày. Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2402, với mục tiêu giảm mỡ, bạn cần hạn chế lượng calo từ chất béo, đặc biệt là chất béo xấu, lượng calo tiêu thụ phải lớn hơn lượng calo thu vào, 35% lượng calo từ protein, 55% lượng calo từ tinh bột, 10% lượng calo từ chất béo.Bạn cần sử dụng những thực phẩm tươi sạch, không qua chế biến, không có chất bảo quản, phụ gia. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà....",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau. Bữa sáng: Smoothie – pha trộn 30g whey protein, 200ml sữa này, 100g dâu tây và chuỗi. Bữa phụ :120g cả thu, 2 lát bánh mì nguyên hạt. Bữa trưa: 1 quả táo, bánh sandwich (nguyên cám) salad gà. Bữa phụ: 1 bát yến mạch (50g). Bữa tối: 90g thịt bò phi với, 2 cà chua. Bữa phụ: 2 quả táo, 200g súp lơ xanh"
+    },
+    {
+      "gender": "nữ",
+      "age": "14-18",
+      "height": "1m6-1m7",
+      "weight": "trên 80",
+      "stage": "sắp thi đấu",
+      "target": "giảm mỡ",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3125 calo/ ngày. Và do mục tiêu của bạn là giảm mỡ, nên lượng calo cần cung cấp phù hợp là 2625, với mục tiêu giảm mỡ, bạn cần hạn chế lượng calo từ chất béo, đặc biệt là chất béo xấu, lượng calo tiêu thụ phải lớn hơn lượng calo thu vào, 35% lượng calo từ protein, 55% lượng calo từ tinh bột, 10% lượng calo từ chất béo. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Kết hợp với giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ. Trước 1 tuần thi thể hình, các vận động viên sẽ áp dụng chế độ ăn bình thường. Ba ngày sau đó các vận động viên sẽ ăn nhiều chất béo và chất đạm, chất đường bột giảm xuống còn 20-30%. Sát buổi thi đấu 3 ngày, các vận động viên sẽ tiếp nạp nhiều tinh bột vào cơ thể, trong đó đường bột 75%, đạm 15% và nghỉ ngơi không luyện tập, giữ tinh thần thật sảng khoái và thoải mái. Bữa sáng: 25g whey protein, 100g dâu tây. Bữa phụ :100g cá thu, 1 lát bánh mì nướng nguyên hạt. Bữa trưa: 1 quả táo, bánh sandwich (nguyên cám) salad gà. Bữa phụ: 1 bát yến mạch (50g). Bữa tối: 120g thịt bò phi lẽ với rau bina và 2 cà chua nướng. Bữa phụ: 1 quả táo, 200g súp lơ xanh"
+    }
+  ],
+  "newCase": [
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m6-1m7",
+      "weight": "5",
+      "target": "duy trì thể trạng",
+      "stage": "tập luyện",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2610 calo/ngày.Và do mục tiêu của bạn là duy trì thể trạng, nên lượng calo cần cung cấp phù hợp là 2610, bạn nên thực hiện khẩu phần ăn theo quy tắc 40:20:40, 40% carbohydrates, 20% chất béo, 40% protein. Với cân nặng của bạn, bạn cần ăn 90g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Kết hợp với giai đoạn luyện tập hàng ngày ăn 6,7 bữa cách nhau 2 đến 3h 1 lần. Bữa 1: 1 cơm sườn,1 trứng ốp la, 1 trái chuối;bữa 2: bữa 2: 4,5 lòng trắng trứng, 1 cốc sữa ít béo, không đường, bữa 3: 200 g thịt bò nạc, 1 đĩa bông cải xanh;bữa 4: 200g ức gà, 1 muỗng whey protein;bữa 5: 1 bát gạo lứt, 200 g thăn bò, 1 quả táo, cam;bữa 6,7: 1 quả trứng luộc, 1 quả chuối. Cung cấp đủ lượng nước cần thiết trước và sau khi tập luyện (3,4 l/ngày)",
+      "id": 1
+    },
+    {
+      "gender": "nam",
+      "age": "14-18",
+      "height": "1m6-1m7",
+      "weight": "70-80",
+      "target": "tăng cơ tăng cân",
+      "stage": "tập luyện",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2480 calo/ngày. Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 2980, bạn nên ăn tăng bổ sung thực phẩm giàu, protein và calo, chất béo tốt. Ví dụ bữa 1: 2 quả trứng, 1 bát yến mạch;bữa 2: 200g ức gà, 1 bát gạo lứt, rau luộc;bữa 3: 300g thăn bò, khoai tây;bữa 4: 1,2 quả chuối, sữa tăng cơ, bữa 5: 200 ức gà, 1 salad rau, 1 bát gạo lứt;bữa 6,7: 500g cá rô phi hoặc cá bơn, 1 đĩa bông cải luộc. Với cân nặng của bạn, bạn cần ăn 80g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Ngoài ra trong giai đoạn luyện tập căng thẳng cần tập trung vào các thực phẩm giàu protein, cung cấp đủ lượng tinh bột dễ tiêu như: ngũ cốc, sữa, bánh ngọt, chocolate, nước trái cây,... Trong 1 ngày luyện tập ăn 6, 7 bữa cách nhau 2h 1 lần, sau khi tập ăn bổ sung năng lượng đã mất trong khoảng 30p-1h bằng các bữa ăn nhanh. Cần uống nhiều nước trước và sau khi tập luyện (3-4l/1 ngày), bổ sung nước và điện giải sau khi tập luyện sẽ giúp cơ thể phục hồi và đạt hiệu suất cao nhất",
+      "id": 2
+    },
+    {
+      "gender": "nữ",
+      "age": "19-30",
+      "height": "1m6-1m7",
+      "weight": "5",
+      "target": "tăng cơ tăng cân",
+      "stage": "tập luyện",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2703 calo/ ngày. Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3203, với mục tiêu tăng cơ tăng cân, bạn cần ăn bạn cần sung thực phẩm giàu chất béo tốt, tốc độ tăng cân an toàn phù hợp là 0.5 - 1kg mỗi tuần. Tăng bổ sung thực phẩm giàu chất béo tốt,cần ăn các thực phẩm giàu carbs, protein và calo bổ sung vào những thời điểm phù hợp. Với cân nặng của bạn, bạn cần ăn 130g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà.",
+      "conclude2": "Kết hợp với giai đoạn tập luyện, bạn nên ăn 6 bữa/1 ngày. Các VĐV thể hình trong giai đoạn luyện tập cần tập trung nhiều vào những thực phẩm giàu protein và cung cấp đủ lượng tinh bột giúp săn chắc cơ bắp. Bữa sáng: 3 quả trứng gà và 4 lòng trắng trứng gà, 1 ít bơ và hành lá, 2 lát bánh mì đen, 1 trái táo. Bữa phụ : Sinh tố Whey và Blueberry, Pha 1 ly sinh tố với 2 thìa Whey Protein và 1 chén Blueberry, thêm 15 hạt hạnh nhân. Bữa trưa: 150g thịt bò, salad với 1 trái dưa leo, đậu gà, dầu oliu và 1 quả cà chua. Bữa phụ : 2 quả chuối cùng 1 thìa bột Whey Protein. Bữa tối: 150g ức gà, salad rau với hạt quinoa và hạt điều. Bữa phụ : 3 củ khoai lang, 150g cá ngừ, 1 chén bông cải xanh luộc.",
+      "id": 3
+    },
+    {
+      "gender": "nam",
+      "age": "19-30",
+      "height": "1m6-1m7",
+      "weight": "5",
+      "target": "tăng cơ",
+      "stage": "sắp thi đấu",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 3322 calo/ngày.Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 3522, bạn nên thực hiện khẩu phần ăn bao gồm: 45% calo từ protein, 40% từ tinh bột, 15% từ chất béo tốt, hạn chế sử dụng rượu, thực phẩm chứa nhiều đường, đồ chiên rán. Bữa sáng: 3 lát thịt heo nạc áp chảo kèm với 1 quả trứng ốp la, 1 quả chuối;bữa phụ: 100g ức gà, 2 lát bánh mì, 25g whey protein;bữa trưa: gà xé phay, sinh tố cacao và bơ đậu phộng;bữa phụ: sữa tăng cơ, hoa quả;bữa tối: Nấm xào với thịt nạc, 1 đĩa su su luộc. Với cân nặng của bạn, bạn cần ăn 150g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như khoai tây chiên, pizza... Cung cấp 2g đạm trên 1kg trọng lượng cơ thể. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi thoải mái.",
+      "id": 4
+    },
+    {
+      "gender": "nữ",
+      "age": "19-30",
+      "height": "1m7-1m8",
+      "weight": "70-80",
+      "target": "tăng cơ",
+      "stage": "sau thi đấu",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2962 calo/ ngày. Và do mục tiêu của bạn là tăng cơ, nên lượng calo cần cung cấp phù hợp là 3162, với mục tiêu tăng cơ, bạn cần ăn 45% lượng calo từ protein, 40% lượng calo từ tinh bột, 15% lượng calo từ chất béo.Tránh uống rượu, thực phẩm chiên gián, thực phẩm nhiều đường, đồ uống có ga. Với cân nặng của bạn, bạn cần ăn 160g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò,trứng gà...",
+      "conclude2": "Sau mỗi buổi thi đấu cần bù đắp sự thiếu hụt năng lượng trong 30 phút đầu với ít nhất là 100g chất đường bột từ nước trái cây và lặp lại như vậy sau 2-3 giờ. Sau khi tham gia thi đấu, bạn vẫn cần duy trì chế độ ăn ít tinh bột, ít tạo mỡ, giàu protein từ trứng, cá, thịt bò, yến mạch và rau. Bữa sáng : 4 quả trứng gà, 1 chén sữa kem ngũ cốc lúa mì, 1 quả chuối. Bữa phụ : 2 lát bánh mì gạo nguyên hạt, 2 lát phô mai, 100g ức gà; Bữa trưa : 250 thịt bò, 2 chén mì ống, 1 bát bông cải xanh; Bữa phụ: Sinh tố protein 200ml và 1 lê. Bữa tối : 200g thịt nạc, 1 khoai lang, 1 bát trộn lẫn đậu ngô cà rốt; Bữa phụ: 1 hũ sữa Hy Lạp",
+      "id": 5
+    },
+    {
+      "gender": "nữ",
+      "age": "14-18",
+      "height": "dưới 1m6",
+      "weight": "50-60",
+      "target": "tăng cơ tăng cân",
+      "stage": "sắp thi đấu",
+      "conclude1": "Với thể trạng của bạn, cần tiêu thụ 2870 calo/ngày.Và do mục tiêu của bạn là tăng cơ tăng cân, nên lượng calo cần cung cấp phù hợp là 3370, bạn cần tăng bổ sung thực phẩm giàu chất béo tốt, giàu calo vào các thời điểm thích hợp. Bữa sáng(6-8h): 1 tô hủ tiếu có thịt gà hoặc thịt bò, 1 hộp sữa, 1 quả táo, bữa phụ(9-10h): 1 quả trứng luộc, 1 quả chuối tiêu;bữa trưa(11-12h): 2 bát cơm, 200 g thăn bò, 1 bát canh bí nấu tôm;bữa phụ(14-15h):1 quả trứng vịt lộn, 1 xúc xích, 1 quả chuối;bữa ăn tối(18-19h): 150g cá hồi, cà chua, salad rau, sữa chua;bữa phụ: 1 cốc sữa ít béo, 1 quả táo. Với cân nặng của bạn, bạn cần ăn 110g đạm, những thực phẩm chứa nhiều đạm bạn có thể ăn: ức gà, thăn bò, trứng gà....",
+      "conclude2": "Trong giai đoạn sắp thi đấu, bạn cần kiểm soát chế độ ăn uống, tránh xa các món ăn mặn, nhiều dầu mỡ như pho mai que, bánh rán... Cung cấp đủ lượng đạm cho trọng lượng cơ thể 2g/1kg. Trước 1 tuần thi áp dụng chế độ ăn bình thường, 3 ngày sát cuộc thi không tập luyện, nghỉ ngơi để tinh thần thư giãn thoải mái.",
+      "id": 6
+    }
+  ]
+}

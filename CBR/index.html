@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+        <div class="chatbot">
+            <h1>CHATBOT
+                <div class="header">Tư vấn dinh dưỡng cho vận động viên thể hình</div>
+            </h1>
+            
+            <div id="msg">
+                <div class="first none left">
+                    <p>Xin hãy lựa chọn các giá trị ứng với thông tin của bạn dưới đây, chúng tôi sẽ dựa vào các lựa chọn của bạn để đưa ra lời tư vấn thích hợp </p>
+                </div>
+                <div class="gender-group none left">
+                    <h2>Giới tính</h2>
+                    <input name="gender" type="radio" value="0" class="gender">Nữ <br>
+                    <input name="gender" type="radio"  value="1" class="gender">Nam <br>
+                </div>
+               
+                <div class="age-group none left">
+                    <h2>Độ tuổi</h2>
+                    <input class="age" name="age" type="radio" value="0">dưới 19<br>
+                    <input class="age" name="age" type="radio" value="1">19-30<br>
+                     <input class="age" name="age" type="radio" value="2">31-50<br>
+                    <input class="age" name="age" type="radio" value="3">trên 50<br>
+                </div>
+                <div class="height-group none left">
+                    <h2>Chiều cao</h2>
+                    <input class="height" name="height" type="radio" value="0">Dưới 1m6<br>
+                    <input class="height" name="height" type="radio" value="1">1m6-1m7<br>
+                     <input class="height" name="height" type="radio" value="2">1m7-1m8<br>
+                    <input class="height" name="height" type="radio" value="3">Trên 1m8<br>
+                </div>
+                <div class="weight-group none left">
+                    <h2>Cân nặng</h2>
+                    <input class="weight" name="weight" type="radio" value="0">Dưới 40 cân<br>
+                    <input class="weight" name="weight" type="radio" value="1">40-50 cân<br>
+                     <input class="weight" name="weight" type="radio" value="2">50-60 cân<br>
+                    <input class="weight" name="weight" type="radio" value="3">60-70 cân<br>
+                    <input class="weight" name="weight" type="radio" value="4">70-80 cân<br>
+                    <input class="weight" name="weight" type="radio" value="5">Trên 80 cân<br>
+                </div>
+                <div class="target-group none left">
+                    <h2>Mục tiêu</h2>
+                    <input class="target" name="target" type="radio" value="0">Duy trì thể trạng<br>
+                    <input class="target" name="target" type="radio" value="1">Tăng cơ giảm mỡ<br>
+                     <input class="target" name="target" type="radio" value="2">Tăng cơ tăng cân<br>
+                    <input class="target" name="target" type="radio" value="3">Tăng cơ<br>
+                    <input class="target" name="target" type="radio" value="4">Giảm mỡ<br>
+                </div>
+                <div class="stage-group none left">
+                    <h2>Giai đoạn</h2>
+                    <input class="stage" name="stage" type="radio" value="0">Sắp thi đấu<br>
+                    <input class="stage" name="stage" type="radio" value="1">Đang thi đấu<br>
+                    <input class="stage" name="stage" type="radio" value="2">Sau thi đấu<br>
+                    <input class="stage" name="stage" type="radio" value="3">Tập luyện<br>
+                </div>
+                <div class="result1 none left"></div>
+                <div class="result2 none left"></div>
+                <div class="final none left">Bạn có thể kéo lên chọn lại nếu muốn tư vấn lại</div>
+            </div>
+            <div class="input">
+                <input type="text" id="msg_send" placeholder="New Message"> 
+                <button class="send" id="reply">Send <i class="fas fa-paper-plane"></i></button>
+            </div>
+        </div>
+  
+
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
